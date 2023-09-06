@@ -1,0 +1,16 @@
+.cita{
+    color: #33C158;
+}
+
+
+@media screen and (max-width: 428px) {
+        .deletebutton {
+            font-size: 10px !important;
+            margin-left: -1px !important;
+            width: 100% !important;
+    }
+    .editbutton{
+        font-size: 10px !important;
+        width: 100% !important;
+    }
+}
